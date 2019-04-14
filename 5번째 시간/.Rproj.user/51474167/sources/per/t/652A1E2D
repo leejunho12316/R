@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554962485491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3340026376",
+    "id" : "652A1E2D",
+    "lastKnownWriteTime" : 1555216010,
+    "last_content_update" : 1555216010323,
+    "path" : "C:/GitHub/5번째 시간/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "cursorPosition" : "72,73",
+        "scrollLine" : "58",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
