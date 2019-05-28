@@ -1,0 +1,17 @@
+*기울임체*
+**강조체**
+~~취소선~~
+
+#제목 레벨1#
+##제목 레벨2##
+###제목 레벨3###
+####제목 레벨4####
+
+[하이퍼링크](https://www.google.com)
+
+
+```{r}
+library(ggplot2)
+summary(mpg)
+qplot(data=mpg,x=drv,fill=drv)
+```
